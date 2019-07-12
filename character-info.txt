@@ -1,0 +1,6 @@
+Po;po.png;Buddy, I am the Dragon Warrior.;https://kungfupanda.fandom.com/wiki/Po
+Tigress;tigress.png;That was pretty hardcore!;https://kungfupanda.fandom.com/wiki/Tigress
+Mantis;mantis.png;Fear the Bug!https://kungfupanda.fandom.com/wiki/Mantis
+Monkey;monkey.png;We should hang out;https://kungfupanda.fandom.com/wiki/Monkey
+Viper;viper.png;I don't need to bite to fight.;https://kungfupanda.fandom.com/wiki/Viper
+Crane;crane.png;So that was 'stealth mode' , huh?;https://kungfupanda.fandom.com/wiki/Crane
